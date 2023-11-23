@@ -40,7 +40,7 @@ public class TestNGControllerTest {
         this.testRunProps = new Properties();
         this.testRunProps.loadFromXML( getClass().getResourceAsStream( "/test-run-props.xml" ) );
     }
-/*
+
     @Test
     public void testValidateTestRunArgs()
                             throws Exception {
@@ -69,5 +69,5 @@ public class TestNGControllerTest {
         controller.validateTestRunArgs( testRunArgs );
         
     }
-*/
+
 }
