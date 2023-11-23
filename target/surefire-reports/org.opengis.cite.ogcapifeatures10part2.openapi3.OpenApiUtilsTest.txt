@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.opengis.cite.ogcapifeatures10part2.openapi3.OpenApiUtilsTest
+-------------------------------------------------------------------------------
+Tests run: 20, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 1.966 sec - in org.opengis.cite.ogcapifeatures10part2.openapi3.OpenApiUtilsTest

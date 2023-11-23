@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.opengis.cite.ogcapifeatures10part2.openapi3.UrlBuilderTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 sec - in org.opengis.cite.ogcapifeatures10part2.openapi3.UrlBuilderTest

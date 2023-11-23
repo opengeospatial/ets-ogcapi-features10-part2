@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.opengis.cite.ogcapifeatures10part2.util.JsonUtilsTest
+-------------------------------------------------------------------------------
+Tests run: 21, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.504 sec - in org.opengis.cite.ogcapifeatures10part2.util.JsonUtilsTest
