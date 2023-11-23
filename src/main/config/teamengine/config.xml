@@ -8,7 +8,7 @@
     <version>
       <name>${spec-version}</name>
       <suite>
-        <namespace-uri>http://www.opengis.net/cite/ogcapi-features-1.0-part2</namespace-uri>
+        <namespace-uri>http://www.opengis.net/cite/ogcapi-features10-part2</namespace-uri>
         <prefix>tns</prefix>
         <local-name>ets-${ets-code}-${version}</local-name>
         <title>OGC API - Features Conformance Test Suite</title>

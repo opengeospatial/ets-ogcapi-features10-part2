@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: org.opengis.cite.ogcapifeatures10part2.util.OgcNameValidatorTest
--------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 sec - in org.opengis.cite.ogcapifeatures10part2.util.OgcNameValidatorTest

@@ -47,7 +47,7 @@
   </developers>
 
   <properties>
-    <ets-code>ogcapi-features-1.0-part2</ets-code>
+    <ets-code>ogcapi-features10-part2</ets-code>
     <spec-version>1.0</spec-version>
     <docker.teamengine.version>5.4.1</docker.teamengine.version>
     <soapui.test.fail.ignore>false</soapui.test.fail.ignore>
